@@ -1,3 +1,6 @@
+![Screenshot (161)](https://github.com/user-attachments/assets/ed5f5e35-409a-42d9-9d9e-43ee8c3a7f71)
+
+
 📝 To-Do List App
 A simple to-do list app built with HTML, CSS, and JavaScript.
 
