@@ -21,6 +21,3 @@ Type your task and click Add.
 Click a task to mark it complete.
 
 Use the ❌ button to delete a task.
-
-💬 Stay Motivated
-“Every big achievement starts with a small task. You're capable of amazing things!”
